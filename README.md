@@ -23,15 +23,17 @@ Users should be able to:
 ### Screenshot
 
 **Desktop**
+
 ![](./screenshot/result-summary-component-desktop.png)
 
 **Mobile**
+
 ![](./screenshot/result-summary-component-mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/result-summary-component-solution](https://www.frontendmentor.io/solutions/result-summary-component-solution-cpLUCd-hDB)
+- Live Site URL: [https://akash02ab.github.io/result-summary-component/](https://akash02ab.github.io/result-summary-component/)
 
 
 ### Built with
@@ -39,7 +41,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- 
+
 ## Author
 
 - Website - [Akash B.](https://akashbanchhor.netlify.app)
